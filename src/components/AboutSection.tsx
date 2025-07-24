@@ -66,7 +66,7 @@ const AboutSection = () => {
 
             <div className="space-y-4 mb-8 text-muted-foreground">
               <p className="text-lg leading-relaxed">
-                Dengan pengalaman lebih dari 10 tahun di industri properti Jakarta, 
+                Dengan pengalaman lebih dari 10 tahun di industri properti Jak, 
                 Nia Property Advisor telah membantu ratusan klien menemukan properti impian 
                 dan investasi yang menguntungkan.
               </p>
